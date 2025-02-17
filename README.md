@@ -1,2 +1,2 @@
 # Fisrt-game-in-Godot
-First game in Godot (with tutorials)
+First game in Godot
